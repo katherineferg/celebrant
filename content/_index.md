@@ -34,7 +34,7 @@ content_blocks:
       image_alt: Couple exchanging vows
     image_3:
       image_url: /uploads/44b01f72-a5d5-4eb3-b437-50b5d0ab52df-1-102-o-1.jpeg
-      image_alt: Morning dew on grass
+      image_alt: Purple and pink flowers
     button:
       button_url: /schedule-demo/
       button_text: Schedule A Demo
