@@ -1,21 +1,15 @@
 ---
+_schema: default
 title: Schedule Demo
-layout: demo-forms
+menu:
+  main: {}
 seo:
-  page_title:
+  page_title: Get in touch
   meta_description:
   featured_image: /uploads/two-people-at-table-1.jpg
   featured_image_alt: Two people sitting at a table together
 content_blocks:
-  - _bookshop_name: hero-two-column
-    heading: Experience the Power of Essentia
-    body: >-
-      Discover firsthand how Essentia can transform your energy consumption patterns and drive sustainability. Schedule a demo today and let us guide you through the features, benefits, and potential savings for your home or business.
-    image:
-      image_url: /uploads/two-people-at-table-1.jpg
-      image_alt: Two people sitting at a table together
-    button:
-      button_url:
-      button_text:
-      open_in_new_tab: false
+  - _bookshop_name: hero-simple
+    heading: Get in touch
+    body: Fill out the form below, and I'll be in contact ✨
 ---
