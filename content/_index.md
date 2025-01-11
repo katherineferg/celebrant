@@ -74,7 +74,7 @@ content_blocks:
       image_alt: Headshot of Carl
     name: Carl R.
     title: Homeowner
-    background_color: gray
+    background_color: black
   - _bookshop_name: media-text
     heading: For Homeowners
     body: >-
