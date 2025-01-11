@@ -1,36 +1,45 @@
 ---
+_schema: default
 title: Home
 menu:
   main:
     weight: 1
 seo:
   page_title: Sustainable Analytics Software
-  meta_description: Harness the power of cutting-edge analytics with Essentia. Our intuitive software deciphers complex energy patterns, enabling businesses and homeowners to reduce costs and minimize environmental impact.
+  meta_description: >-
+    Harness the power of cutting-edge analytics with Essentia. Our intuitive
+    software deciphers complex energy patterns, enabling businesses and
+    homeowners to reduce costs and minimize environmental impact.
   featured_image: /uploads/essentia-featured-image.jpg
   featured_image_alt: Essentia Logo
 content_blocks:
   - _bookshop_name: hero
-    heading: Turn Energy Data into Sustainable Action
+    heading: Kate Ferguson Wedding Celebrant
     body: >-
-      Harness the power of cutting-edge analytics with Essentia. Our intuitive
-      software deciphers complex energy patterns, enabling businesses and
-      homeowners to reduce costs and minimize environmental impact. Dive deep
-      into real-time insights, make informed decisions, and lead the charge
-      towards a sustainable future.
+      I’m Kate, a wedding celebrant based in Dunedin, New Zealand. I love
+      working with couples to help create ceremonies that are personal,
+      heartfelt, and truely *them*.
+
+
+      With a mix of creativity, a bit of humour, and plenty of care, I’ll help
+      bring your story to life in a way that feels just right for you. Let’s
+      chat about making your ceremony unforgettable 🤍
     image_1:
-      image_url: /uploads/trees-1.jpg
-      image_alt: Trees with sunshine shining through branches
+      image_url: /uploads/3480990e-983c-4148-9e97-a91e8e0ff31d.jpeg
+      image_alt: >-
+        Kate holding note book in front of a stunning backdrop of rivers and
+        farms
     image_2:
-      image_url: /uploads/analytics-1.jpg
-      image_alt: Analytics data on computer screen
+      image_url: /uploads/6769ef65-4376-4b76-8b2f-bac1b7c4fc5e-1-105-c.jpeg
+      image_alt: Couple exchanging vows
     image_3:
-      image_url: /uploads/grass-1.jpg
+      image_url: /uploads/44b01f72-a5d5-4eb3-b437-50b5d0ab52df-1-102-o-1.jpeg
       image_alt: Morning dew on grass
     button:
-      enabled: true
       button_url: /schedule-demo/
       button_text: Schedule A Demo
       open_in_new_tab: false
+      enabled: true
   - _bookshop_name: media-text
     heading: For Business
     body: >-
@@ -42,14 +51,14 @@ content_blocks:
     image:
       image_url: /uploads/business-1.jpg
       image_alt: Trees with sunshine shining through branches
-    decorative_image: 
-      enabled: true
     button:
       enabled: true
       button_url: /services/business/
       button_text: sustainability for business
       open_in_new_tab: false
     background_color: black
+    decorative_image:
+      enabled: true
     text_column_position: right
   - _bookshop_name: media-text
     heading: For Homeowners
@@ -62,14 +71,14 @@ content_blocks:
     image:
       image_url: /uploads/homeowners-2.jpg
       image_alt: Trees with sunshine shining through branches
-    decorative_image: 
-      enabled: true
     button:
       enabled: true
       button_url: /services/homeowners/
       button_text: sustainability for homeowners
       open_in_new_tab: false
     background_color: white
+    decorative_image:
+      enabled: true
     text_column_position: left
   - _bookshop_name: blog-feed
     heading: Our Latest Sustainability Resources
@@ -86,12 +95,15 @@ content_blocks:
     background_color: white
   - _bookshop_name: testimonial
     body: >-
-      "At first, I was skeptical about how much Essentia's real-time monitoring could benefit us. But within months, it became clear. We became empowered to make eco-friendly choices, reducing both our bills and our carbon footprint. Every homeowner should give it a try!"
+      "At first, I was skeptical about how much Essentia's real-time monitoring
+      could benefit us. But within months, it became clear. We became empowered
+      to make eco-friendly choices, reducing both our bills and our carbon
+      footprint. Every homeowner should give it a try!"
     image:
       image_url: /uploads/carl-1.jpg
       image_alt: Headshot of Carl
-    name: "Carl R."
-    title: "Homeowner"
+    name: Carl R.
+    title: Homeowner
     background_color: black
   - _bookshop_name: numbers
     heading: Driving Sustainable Businesses Forward
