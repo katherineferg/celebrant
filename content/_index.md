@@ -37,8 +37,8 @@ content_blocks:
       image_alt: Purple and pink flowers
     button:
       button_url: /schedule-demo/
-      button_text: Schedule A Demo
-      open_in_new_tab: false
+      button_text: Get in touch
+      open_in_new_tab: true
       enabled: true
   - _bookshop_name: media-text
     heading: For Business
