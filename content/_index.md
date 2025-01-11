@@ -60,6 +60,21 @@ content_blocks:
     decorative_image:
       enabled: true
     text_column_position: right
+  - _bookshop_name: hero-simple
+    heading: Couples I've worked with
+    body: ''
+  - _bookshop_name: testimonial
+    body: >-
+      "At first, I was skeptical about how much Essentia's real-time monitoring
+      could benefit us. But within months, it became clear. We became empowered
+      to make eco-friendly choices, reducing both our bills and our carbon
+      footprint. Every homeowner should give it a try!"
+    image:
+      image_url: /uploads/carl-1.jpg
+      image_alt: Headshot of Carl
+    name: Carl R.
+    title: Homeowner
+    background_color: gray
   - _bookshop_name: media-text
     heading: For Homeowners
     body: >-
@@ -80,31 +95,6 @@ content_blocks:
     decorative_image:
       enabled: true
     text_column_position: left
-  - _bookshop_name: blog-feed
-    heading: Our Latest Sustainability Resources
-    body: >-
-      Dive deep into the world of sustainable energy with the latest articles,
-      trends, and breakthroughs. At Essentia, we believe in empowering our
-      community with knowledge. Stay informed, stay sustainable, and join the
-      conversation shaping our energy future.
-    button:
-      enabled: true
-      button_url: /blog/
-      button_text: View All Posts
-      open_in_new_tab: false
-    background_color: white
-  - _bookshop_name: testimonial
-    body: >-
-      "At first, I was skeptical about how much Essentia's real-time monitoring
-      could benefit us. But within months, it became clear. We became empowered
-      to make eco-friendly choices, reducing both our bills and our carbon
-      footprint. Every homeowner should give it a try!"
-    image:
-      image_url: /uploads/carl-1.jpg
-      image_alt: Headshot of Carl
-    name: Carl R.
-    title: Homeowner
-    background_color: black
   - _bookshop_name: numbers
     heading: Driving Sustainable Businesses Forward
     numbers:
