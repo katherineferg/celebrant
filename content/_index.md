@@ -33,8 +33,8 @@ content_blocks:
       image_url: /uploads/6769ef65-4376-4b76-8b2f-bac1b7c4fc5e-1-105-c.jpeg
       image_alt: Couple exchanging vows
     image_3:
-      image_url: /uploads/44b01f72-a5d5-4eb3-b437-50b5d0ab52df-1-102-o-1.jpeg
-      image_alt: Purple and pink flowers
+      image_url: /uploads/44b01f72-a5d5-4eb3-b437-50b5d0ab52df-1-102-o-2.jpeg
+      image_alt: purple flowers
     button:
       button_url: /schedule-demo/
       button_text: Get in touch
