@@ -18,6 +18,8 @@ content_blocks:
     image_alt: Kate Ferguson's pic
     cta_button: Get in touch
     cta_button_link: '#contact'
+    works_button: ''
+    works_button_link: ''
     tags: []
   - _bookshop_name: testimonials-section
     title: Happy Couples
