@@ -14,7 +14,7 @@ content_blocks:
       personal, fun, and true to each couple’s story. Whether you’re planning a
       big celebration or a small, intimate gathering, I’ll make sure your
       ceremony feels relaxed, memorable, and completely yours.</p>
-    image: /images/01.jpg
+    image: /uploads/3480990e-983c-4148-9e97-a91e8e0ff31d.jpeg
     image_alt: Vanessa Marley's picture
     cta_button: Get in touch
     cta_button_link: '#contact'
