@@ -1,7 +1,7 @@
 ---
 _schema: default
 name: Hannah & Larsen
-Married: December 2023
+position: December 2023
 image: /uploads/fullsizerender.jpeg
 blurb: >-
   Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in
