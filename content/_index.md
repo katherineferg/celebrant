@@ -15,7 +15,7 @@ content_blocks:
       big celebration or a small, intimate gathering, I’ll make sure your
       ceremony feels relaxed, memorable, and completely yours.</p>
     image: /uploads/3480990e-983c-4148-9e97-a91e8e0ff31d.jpeg
-    image_alt: Vanessa Marley's picture
+    image_alt: Kate Ferguson's pic
     cta_button: Get in touch
     cta_button_link: '#contact'
     works_button: See my works
