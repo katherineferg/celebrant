@@ -27,8 +27,8 @@ content_blocks:
     show_testimonials: true
   - _bookshop_name: contact-form
     form_title: Get in touch
-    form_description: Vonge comes with a built-in contact form.
-    form_success_page: ''
+    form_description:
+    form_success_page:
     form_submission_email: kate.fergusonnz@gmail.com
     form_button_text: Send now
 ---
