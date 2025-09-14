@@ -22,7 +22,7 @@ content_blocks:
     works_button_link: '#projects'
     tags: []
   - _bookshop_name: testimonials-section
-    title: Happy Clients
+    title: Happy Couples
     description_html:
     show_testimonials: true
   - _bookshop_name: contact-form
