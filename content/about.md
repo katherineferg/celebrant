@@ -12,7 +12,7 @@ content_blocks:
     title: About
     description:
   - _bookshop_name: page-image
-    image: /images/page-1.jpg
+    image: /uploads/87282206-4379-4446-8925-b8eda386c243.png
     image_alt: My best photo
   - _bookshop_name: content
     content_html: >-
