@@ -14,8 +14,9 @@ content_blocks:
       that feel personal, fun, and true to each couple’s story. Whether you’re
       planning a big celebration or a small, intimate gathering, I’ll make sure
       your ceremony feels relaxed, memorable, and completely
-      yours.</p><p></p><p>If you think I might be a good fit for your wedding,
-      then I'd love to hear from you</p><p>📧 yourcelebrantkate@gmail.com</p>
+      yours.</p><p></p><p></p><p>If you think I might be a good fit for your
+      wedding, then I'd love to hear from you</p><p></p><p>📧
+      yourcelebrantkate@gmail.com</p>
     image: /uploads/img-7328.png
     image_alt: Kate Ferguson's pic
     cta_button: Get in touch
