@@ -16,8 +16,8 @@ content_blocks:
       your ceremony feels relaxed, memorable, and completely yours.</p>
     image: /uploads/img-7328.png
     image_alt: Kate Ferguson's pic
-    cta_button: Get in touch
-    cta_button_link: '#contact'
+    cta_button:
+    cta_button_link:
     works_button: ''
     works_button_link: ''
     tags: []
