@@ -2,7 +2,7 @@
 _schema: default
 name: Katie & Jack
 position:
-image: /uploads/img-3858.jpeg
+image: /uploads/img-5934.jpeg
 blurb: >-
   We are so grateful that Kate officiated our wedding in November 2024. From the
   very beginning, she made us feel comfortable and took the time to truly
