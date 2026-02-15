@@ -1,6 +1,6 @@
 menu__settings:
   menu__items:
     - title: Home
-      url: /
+      url: /home/
     - title: About
       url: /about/
