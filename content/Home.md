@@ -23,10 +23,16 @@ content_blocks:
     cta_button_link: '#contact'
     works_button: ''
     works_button_link: ''
-    tags:
-      - text: ''
+    tags: []
   - _bookshop_name: testimonials-section
     title: Testimonials
     description_html: ''
     show_testimonials: true
 ---
+I became a celebrant in November 2023. After performing my first wedding for two very close friends, I quickly realised how special, and how much of an honour it is to be part of someone’s big day.
+
+I was love working with couples to ensure their ceremony is just how they imagined it. Working closely with each couple has shown me that everyone’s story is unique, but the one thing they all have in common is wanting to celebrate their love with the people who matter most.
+
+I have performed intimate ceremonies with only a handful of guests, as well as larger celebrations where everyone travels from near and far to share in the love.
+
+I’d love to be a part of your big day - get in touch if you think I could be a good fit for your wedding.
