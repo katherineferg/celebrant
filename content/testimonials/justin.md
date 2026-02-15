@@ -1,7 +1,7 @@
 ---
 _schema: default
 name: Hannah & Larsen
-position: December 2023
+position: Dunedin
 image: /uploads/fullsizerender.jpeg
 blurb: >-
   We had the most incredible time with Kate as our celebrant! It meant so much

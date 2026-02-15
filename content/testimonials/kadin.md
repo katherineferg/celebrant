@@ -1,7 +1,7 @@
 ---
 _schema: default
 name: Laura & Ben
-position: October 2024
+position: Dunedin
 image: /uploads/img-3100.jpeg
 blurb: >-
   Not many people get to marry their special someone amidst a state of emergency
