@@ -14,7 +14,7 @@ content_blocks:
       that feel personal, fun, and true to each couple’s story. Whether you’re
       planning a big celebration or a small, intimate gathering, I’ll make sure
       your ceremony feels relaxed, memorable, and completely yours.</p>
-    image: /uploads/3480990e-983c-4148-9e97-a91e8e0ff31d.jpeg
+    image: /uploads/img-7328.png
     image_alt: Kate Ferguson's pic
     cta_button: Get in touch
     cta_button_link: '#contact'
