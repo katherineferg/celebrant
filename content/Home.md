@@ -26,4 +26,8 @@ content_blocks:
     title: Testimonials
     description_html: ''
     show_testimonials: true
+  - _bookshop_name: content
+    content_html: >-
+      <p>If you think I might be a good fit for your wedding, please get in
+      touch 💜 </p><p>📧 kate.fergusonnz@gmail.com</p>
 ---
