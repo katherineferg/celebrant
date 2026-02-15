@@ -1,6 +1,6 @@
 ---
 _schema: default
-name: Hannah & Larse
+name: Hannah & Larsen
 position:
 image: /uploads/fullsizerender-1.jpeg
 blurb: >-
