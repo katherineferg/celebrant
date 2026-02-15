@@ -1,7 +1,7 @@
 ---
 seo:
   page_description: home page
-  canonical_url: /home/
+  canonical_url:
   featured_image:
   author_twitter_handle:
   open_graph_type:
@@ -26,10 +26,4 @@ content_blocks:
     title: Testimonials
     description_html: ''
     show_testimonials: true
-  - _bookshop_name: contact-form
-    form_title: Get in touch
-    form_description:
-    form_success_page:
-    form_submission_email: kate.fergusonnz@gmail.com
-    form_button_text: Send now
 ---
