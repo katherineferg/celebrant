@@ -1,7 +1,7 @@
 ---
 seo:
-  page_description:
-  canonical_url:
+  page_description: home page
+  canonical_url: /home/
   featured_image:
   author_twitter_handle:
   open_graph_type:
