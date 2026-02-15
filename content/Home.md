@@ -22,14 +22,14 @@ content_blocks:
     works_button_link: ''
     tags:
       - text: ''
+  - _bookshop_name: testimonials-section
+    title: Testimonials
+    description_html: ''
+    show_testimonials: true
   - _bookshop_name: contact-form
     form_title: Get in touch
     form_description:
     form_success_page:
     form_submission_email: kate.fergusonnz@gmail.com
     form_button_text: Send now
-  - _bookshop_name: testimonials-section
-    title: Testimonials
-    description_html: ''
-    show_testimonials: true
 ---
