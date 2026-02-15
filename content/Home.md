@@ -20,15 +20,16 @@ content_blocks:
     cta_button_link: '#contact'
     works_button: ''
     works_button_link: ''
-    tags: []
-  - _bookshop_name: testimonials-section
-    title: Happy Couples
-    description_html:
-    show_testimonials: true
+    tags:
+      - text: ''
   - _bookshop_name: contact-form
     form_title: Get in touch
     form_description:
     form_success_page:
     form_submission_email: kate.fergusonnz@gmail.com
     form_button_text: Send now
+  - _bookshop_name: testimonials-section
+    title: Testimonials
+    description_html: ''
+    show_testimonials: true
 ---
