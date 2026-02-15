@@ -38,6 +38,9 @@ content_blocks:
       celebrations where everyone travels from near and far to share in the
       love.</p><p>If you think I might be a good fit for your wedding, then I'd
       love to hear from you!</p><p>📧 yourcelebrantkate@gmail.com</p>
+  - _bookshop_name: page-image
+    image: ''
+    image_alt: ''
 ---
 I became a celebrant in November 2023. After performing my first wedding for two very close friends, I quickly realised how special, and how much of an honour it is to be part of someone’s big day.
 
